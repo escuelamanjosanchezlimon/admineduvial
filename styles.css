@@ -36,6 +36,7 @@
     border-radius: 10px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
     width: 300px;
+    margin-bottom: 100px;
   }
   
   h2 {
@@ -133,6 +134,8 @@
   }
 
 
+
+
   
   header {
     background-color: #333;
@@ -218,3 +221,11 @@
   background-color: rgb(255, 253, 124);
 
 }
+
+
+
+
+
+
+
+
